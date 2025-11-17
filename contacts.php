@@ -212,7 +212,7 @@
 	<!-- Theme script -->
 	<script src="js/functions.js"></script>
 	<!-- Google map -->
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCpdFiVFzo3_KLUPlgkB05pnDsg2ZkOS5Y&callback=initMap"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=GOOGLEAPI&callback=initMap"></script>
 	<script src="js/mapmarker.jquery.js"></script>
 	<script src="js/mapmarker_func.jquery.js"></script>
 	
